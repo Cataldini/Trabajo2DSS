@@ -1,4 +1,4 @@
-ID;Edad;Ingresos_Anuales;Historial_Crediticio;Monto_Prestamo_Solicitado;Plazo_Prestamo_Años;Número_Creditos_Previos;Empleo;Tasa_Interes;Decision_Final
+ID;Edad;Ingresos_Anuales;Historial_Crediticio;Monto_Prestamo_Solicitado;Plazo_Prestamo_AÃ±os;NÃºmero_Creditos_Previos;Empleo;Tasa_Interes;Decision_Final
 1;37;18929874;0;4325121;9;4;1;8,7;0
 2;21;3558248;1;2710957;6;4;2;1;0
 3;21;17495860;0;1632574;9;2;3;7,2;0
@@ -499,4 +499,3 @@ ID;Edad;Ingresos_Anuales;Historial_Crediticio;Monto_Prestamo_Solicitado;Plazo_Pr
 498;27;10248962;1;4100235;3;12;1;12,3;1
 499;42;3077737;1;4941127;13;6;2;2,4;0
 500;21;20034014;1;2730159;12;10;3;6,1;1
-501;56;12844849;0;2585336;12;11;3;7,5;0
